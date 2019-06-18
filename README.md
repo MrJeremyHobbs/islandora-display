@@ -1,3 +1,5 @@
+![Alt text](https://github.com/MrJeremyHobbs/Islandora-Explorer/blob/master/Screenshot.png?raw=true "Screenshot") 
+
 # IslandoraExplorer
 
 IslandoraExplorer is a script to display Islandora content on large TV monitors.
